@@ -1,0 +1,2 @@
+# Smart-Traffic-Alcohol-Monitoring-with-Number-Plate-Recognition.
+Alcohol detection and vehicle identification using LabVIEW virtual instrumentation. An MQ-3 alcohol sensor detects alcohol from drivers at traffic signals. If the level exceeds a set threshold, the system captures the vehicle’s number plate image, performs OCR, saves the extracted number in a text file, and displays it live on the front panel.
