@@ -1,6 +1,8 @@
 # 🚦 Smart Traffic Alcohol Monitoring with Number Plate Recognition
+![LabVIEW](https://img.shields.io/badge/LabVIEW-NI-yellow?logo=labview)![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)![Sensors and Transducers](https://img.shields.io/badge/Tesseract-OCR-orange)![Industrial Instrumentation](https://img.shields.io/badge/Tesseract-OCR-brown)![Virtual Instrumentation](https://img.shields.io/badge/Tesseract-OCR-brightgreen)
 
-![ Dashboard](FrontPanelview.png)
+
+
 
 An intelligent traffic monitoring system that detects alcohol consumption using an **MQ-3 Alcohol Sensor** and automatically recognizes vehicle registration numbers using **Optical Character Recognition (OCR)**. The system integrates **LabVIEW**, **Python**, **Arduino Uno**, **OpenCV**, and **Tesseract OCR** to automate the monitoring process and improve road safety.
 
