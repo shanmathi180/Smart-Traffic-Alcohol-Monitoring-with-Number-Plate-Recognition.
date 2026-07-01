@@ -1,5 +1,5 @@
 # 🚦 Smart Traffic Alcohol Monitoring with Number Plate Recognition
-![LabVIEW](https://img.shields.io/badge/LabVIEW-NI-yellow?logo=labview) ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Sensors and Transducers](https://img.shields.io/badge/Tesseract-OCR-orange) ![Industrial Instrumentation](https://img.shields.io/badge/Tesseract-OCR-brown) ![Virtual Instrumentation](https://img.shields.io/badge/Tesseract-OCR-brightgreen)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-NI-yellow?logo=labview) ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Sensors and Transducers](https://img.shields.io/badge/Tesseract-OCR-orange) ![Industrial Instrumentation](https://img.shields.io/badge/Domain-Industrial%20Instrumentation-brown) ![Virtual Instrumentation](https://img.shields.io/badge/Technology-Virtual%20Instrumentation-brightgreen)
 
 
 
